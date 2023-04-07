@@ -306,7 +306,7 @@ that accesses the Services, is bound by the terms of this agreement plus the fol
 ## Support
 
 Technical support is provided by [email](mailto:support@illumitacit.com) and [GitHub
-Discussions](https://github.com/illumitacit/company/discussions). There is no Service Level Agreement on support inquiry
+Discussions](https://github.com/orgs/illumitacit/discussions). There is no Service Level Agreement on support inquiry
 response time. Responses are provided on the reasonable effort basis without guaranteed response time.
 
 ## Liability
