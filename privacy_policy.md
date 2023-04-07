@@ -6,7 +6,7 @@ The privacy of your data — and it is your data, not ours! — is a big deal to
 - what data we collect and why
 - how your data is handled
 - and your rights with respect to your data.
-We promise we will not sell your data. Never have. Never will. 🙅 
+We promise we will not sell your data. Never have. Never will.
 
 ## What We Collect and Why
 
