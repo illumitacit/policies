@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-brand-primary {
+    color: #f5ba41;
+  }
+
+  .text-brand-primary-light {
+    color: #f0cf90;
+  }
+
+  .bg-brand-primary {
+    background-color: #f5ba41;
+  }
+
+  .bg-brand-primary-light {
+    background-color: #f0cf90;
+  }
+}
+
+/* Overall site design */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-bold pt-4 pb-2 dark:text-brand-primary;
+}
+h1 {
+  @apply text-5xl text-center text-brand-primary;
+}
+h2 {
+  @apply text-2xl text-center text-brand-primary;
+}
+h3 {
+  @apply text-xl;
+}
+h4 {
+  @apply text-xl;
+}
+h5 {
+  @apply text-lg;
+}
+h6 {
+  @apply text-lg font-normal;
+}
+
+p {
+  @apply leading-relaxed py-2;
+}
+
+.page a {
+  @apply text-brand-primary hover:text-brand-primary-light;
+}
+
+.page table {
+  @apply overflow-auto block border-spacing-0 border-collapse my-4 text-slate-800 dark:text-slate-200;
+}
+
+.page tr th,
+.page tr td {
+  @apply p-3 border-2 border-solid;
+}
+
+.page ul {
+  @apply list-disc ml-6;
+}
+
+.page ol {
+  @apply list-decimal ml-6;
+}

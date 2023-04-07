@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>
+      {{- block "title" . -}}
+        {{ .Site.Title }}
+      {{- end -}}
+    </title>
+
+    {{ $css := resources.Get "dist/index.css" | minify }}
+    {{ with $css }}
+      {{ $securecss := . | resources.Fingerprint }}
+      <link rel="stylesheet" href="{{ $securecss.Permalink | relURL  }}" integrity="{{ $securecss.Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  </head>
+
+  <body class="bg-white dark:bg-slate-900">
+    {{ partial "header.html" . }}
+
+    <div class="mt-16 max-w-4xl mx-auto text-slate-800 dark:text-slate-200">
+      {{ block "main" . }}{{ end }}
+    </div>
+
+    {{ partial "footer.html" . }}
+  </body>
+</html>
