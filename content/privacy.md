@@ -5,10 +5,18 @@ title: "Privacy Policy"
 *Last updated: April 6th, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
-- what data we collect and why
-- how your data is handled
-- and your rights with respect to your data.
+
+* what data we collect and why
+* how your data is handled
+* and your rights with respect to your data.
+
 We promise we will not sell your data. Never have. Never will.
+
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a
+history of the changes to our policies [on
+GitHub](https://github.com/illumitacit/policies/commits/main/content/privacy.md). Whenever we make a significant change
+to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
+
 
 ## What We Collect and Why
 
@@ -210,12 +218,7 @@ or elsewhere outside of the United States, **please be aware that any informatio
 to and stored in the United States**. By using our websites or Services and/or providing us with your personal
 information, you consent to this transfer.
 
-## Changes & Questions
-
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a
-history of the changes to our policies [on GitHub](https://github.com/illumitacit/policies/commits/main). Whenever we make
-a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate
-steps to notify users.
+## Questions
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your
 information? Please get in touch by emailing us at [support@illumitacit.com](mailto:support@illumitacit.com) and we’ll be happy to help!
