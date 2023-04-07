@@ -35,7 +35,7 @@ keeping an open door to [your feedback](mailto:support@illumitacit.com).
 4. Your usage of the Services must comply with the usage policies of the underlying language model provisers. You may
    not use IllumiTacit for any purpose that are expressly prohibited by the underlying services. For example, here is
    the [Usage Policy of OpenAI](https://openai.com/policies/usage-policies). Your content will go through an automated
-   filtering process managed by the service providers to ensure it complies with the policies.
+   filtering process managed by the Service Providers to ensure it complies with the policies.
 
 5. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
@@ -257,16 +257,22 @@ officers, contractors, or affiliates will result in immediate account terminatio
 
 1. **Similarity of content**. Due to the nature of machine learning and AI, Generated Content from the Services may not
    be unique across users and the Services may generate the same or similar output. For example, you may provide input
-   to a model such as “What color is the sky?” and receive output such as “The sky is blue.” Other users may also ask
-   similar questions and receive the same response. Responses that are requested by and generated for other users are
-   not considered your content.
+   to a model such as “What color is the sky?” and receive output such as “The sky is blue.” Other users may also
+   provide the same or similar input and receive the same response. Responses that are requested by and generated for
+   other users are not considered your content.
 
-2. **Accuracy**. Artificial intelligence and machine learning are rapidly evolving fields of study. The underlying
-   models and service providers are constantly evolving to make them more accurate, reliable, safe, and beneficial.
-   Given the probabilistic nature of machine learning, use of our Services may in some situations result in incorrect
-   Generated Content that does not accurately reflect real people, places, or facts. You should evaluate the accuracy of
-   any Generated Content as appropriate for your use case, including by using human review of the Generated Content.
-   IllumiTacit can not and will not provide any guarantee of factual correctness or fitness for purpose of any Generated Content provided by the Services.
+2. **Consistency of content**. Artificial intelligence and machine learning are rapidly evolving fields of study. The
+   underlying models and Service Providers are constantly evolving to make them more accurate, reliable, safe, and
+   beneficial. We do not control the models provided by our Service Providers, and they may be updated automatically
+   from time to time. This may result in receiving different responses for the same inputs over time. IllumiTacit
+   adjusts the parameters to try to ensure the respones are as consistent as possible, but can not and will not provide
+   any guarantee that the generated content for the same inputs will be consistently the same over time.
+
+3. **Accuracy**. Given the probabilistic nature of machine learning, use of our Services may in some situations result
+   in incorrect Generated Content that does not accurately reflect real people, places, or facts. You should evaluate
+   the accuracy of any Generated Content as appropriate for your use case, including by using human review of the
+   Generated Content. IllumiTacit can not and will not provide any guarantee of factual correctness or fitness for
+   purpose of any Generated Content provided by the Services.
 
 ## Features and Bugs
 
