@@ -1,4 +1,6 @@
-# Terms of Service
+---
+title: "Terms of Service"
+---
 
 *Last updated: April 6th, 2023*
 
@@ -320,7 +322,3 @@ In other words: choosing to use our Services does mean you are making a bet on u
 ## Contact us
 
 If you have a question about any of the Terms of Service, please [contact us](mailto:support@illumitacit.com).
-
----
-
-IllumiTacit policies are [open source](https://github.com/illumitacit/policies), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

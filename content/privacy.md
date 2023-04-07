@@ -1,4 +1,6 @@
-# Privacy Policy
+---
+title: "Privacy Policy"
+---
 
 *Last updated: April 6th, 2023*
 
@@ -92,9 +94,8 @@ properly if you turn cookies off.
 
 IllumiTacit uses the following third-party Cookies:
 
-|             |          |                  |                                                                                                                                                                                               |
-| ---         | ---      | ---              | ---                                                                                                                                                                                           |
 | Cookie Name | Type     | Expiry           | Use                                                                                                                                                                                           |
+| ---         | ---      | ---              | ---                                                                                                                                                                                           |
 | Cloudflare  | Required | at most 24 hours | Bot management and session affinity for global cache. Refer to the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) for more details on the cookies and their use.      |
 
 ### Voluntary Correspondence
@@ -133,23 +134,23 @@ potential abuse is a measure of last resort. We want to protect the privacy and 
 people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we
 discover you are using our products for a restricted purpose, we will take any necessary action, including notifying appropriate authorities where warranted.
 
-**When required under applicable law.**
+**When required under applicable law.** IllumiTacit, LLC is a U.S. company and all data infrastructure are located in the U.S.
 
-IllumiTacit, LLC is a U.S. company and all data infrastructure are located in the U.S.
-* Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by
-  legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement
+* **Requests for user data.** Our policy is to not respond to government requests for user data unless we are compelled
+  by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement
   authorities have the necessary warrant, criminal subpoena, or court order requiring us to share data, we must comply.
   Likewise, we will only respond to requests from government authorities outside the U.S. if compelled by the U.S.
   government through procedures outlined in a mutual legal assistance treaty or agreement. It is IllumiTacit’s policy to
   notify affected users before we share data unless we are legally prohibited from doing so, and except in some
   emergency cases.
-* Preservation requests. Similarly, IllumiTacit’s policy is to comply with requests to preserve data only if compelled
-  by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for
-  civil matters. We do not share preserved data unless required by law or compelled by a court order that we choose not
-  to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation
-  period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
-* If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we
-  will share only the minimum needed, such as billing addresses and tax exemption information.
+* **Preservation requests.** Similarly, IllumiTacit’s policy is to comply with requests to preserve data only if
+  compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S.
+  subpoena for civil matters. We do not share preserved data unless required by law or compelled by a court order that
+  we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required
+  preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation
+  period.
+* **Audits.** If we are audited by a tax authority, we may be required to share billing-related information. If that
+  happens, we will share only the minimum needed, such as billing addresses and tax exemption information.
 
 Finally, if IllumiTacit, LLC is acquired by or merges with another company we’ll notify you well before any of your
 personal information is transferred or becomes subject to a different privacy policy.
@@ -218,7 +219,3 @@ steps to notify users.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your
 information? Please get in touch by emailing us at [support@illumitacit.com](mailto:support@illumitacit.com) and we’ll be happy to help!
-
----
-
-IllumiTacit policies are [open source](https://github.com/illumitacit/policies), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

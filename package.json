@@ -1,0 +1,23 @@
+{
+  "name": "illumitacit-policies",
+  "version": "1.0.0",
+  "description": "Policies site for IllumiTacit",
+  "repository": "git@github.com:illumitacit/policies.git",
+  "author": "Yoriyasu Yano <430092+yorinasub17@users.noreply.github.com>",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "targets": {
+    "default": {
+      "source": "assets/index.js",
+      "distDir": "assets/dist"
+    }
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1"
+  }
+}

@@ -1,7 +1,7 @@
 Copyright 2023 IllumiTacit, LLC
 
 The site content (textual content) is licensed under Creative Commons Attribution 4.0 International License
-(https://creativecommons.org/licenses/by/4.0/) (text provided [below](#attribution-4-0-international) for convenience).
+(https://creativecommons.org/licenses/by/4.0/) (text provided [below](#attribution-40-international) for convenience).
 
 The code for the site is licensed under the 3-clause BSD License (text provided [below](#3-clause-bsd-license) for
 convenience).
