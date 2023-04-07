@@ -2,67 +2,70 @@
 
 *Last updated: April 6th, 2023*
 
-The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we
-collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your
-data: never have, never will.
+The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
+- what data we collect and why
+- how your data is handled
+- and your rights with respect to your data.
+We promise we will not sell your data. Never have. Never will. 🙅 
 
-## What we collect and why
+## What We Collect and Why
 
 Our guiding principle is to collect only what we need. Here’s what that means in practice:
 
-### Identity & access
+### Identity & Access
 
-When you join the waiting list for IllumiTacit, we ask for your email address. That's so we can send you product updates
-and private beta links for the service. We may also contact you to conduct a live interview to learn more about your use
-case. You can unsubscribe at any time following the links in the email.
+When you join the IllumiTacit waiting list, we ask for your email address so we can keep you updated with
+product news and private beta access. We might also reach out for a live interview to better understand
+your needs. You can easily unsubscribe at any time through the email links.
 
-When you sign up for IllumiTacit, we ask for identifying information such as your name, email address, and maybe a
-company name. That’s so you can personalize your new account, and we can send you product updates and other essential
-information. We may also send you optional surveys from time to time to help us understand how you use our products and
-to make improvements. With your consent, we will send you our newsletter and other updates. We sometimes also give you
-the option to add a profile picture that displays in our products. You can change your notification settings at any time
-through the links in the email, or on your account settings page.
+When you sign up for IllumiTacit, we request details like your name, email address, and possibly a company
+name to personalize your account and share important updates with you. Occasionally, we may send
+optional surveys to learn more about your experience and enhance our products. With your approval, we'll
+send our newsletter and other updates too. You may also choose to add a profile picture for display within
+our products. You can change your notification settings anytime via email links or on your account settings
+page.
 
-We’ll never sell your personal information to third parties, and we won’t use your name or company in marketing
-statements without your permission either.
+Rest assured, we will never sell your personal information to third parties, nor will we use your name or company
+in marketing materials without your permission.
 
-### Billing information
+### Billing Information
 
-When you sign up for IllumiTacit, you will be asked to provide your payment information and billing address. Credit card
-information is submitted directly to our payment processor and doesn’t hit IllumiTacit servers. We store a record of the
-payment transaction, including the last 4 digits of the credit card number, for purposes of account history, invoicing,
-and billing support. We store your billing address so we can charge you for service, calculate any sales tax due, send
-you invoices, and detect fraudulent credit card transactions. We occasionally use aggregate billing information to guide
-our marketing efforts.
+When you join IllumiTacit, we'll ask for your payment details and billing address. Your credit card information
+goes straight to our payment processor, not passing through IllumiTacit servers. We save a record of the
+transaction, including the last 4 digits of your credit card, to help with account history, invoicing, and billing
+support.
 
-### Product interactions
+We keep your billing address to charge you for our service, figure out any sales tax, send invoices, and spot any
+fraudulent transactions. Sometimes, we use combined billing data to improve our marketing. Don't worry, we're
+committed to keeping your information safe and secure.
 
-We store on our servers content that you provide during the Macro and Plugin creation process in your IllumiTacit
-product account. This is so you can use our products as intended, for example, to run prompts against a language model
-hosted by OpenAI. We keep this content as long as your account is active. If you delete your account, we'll delete the
-content within 60 days.
+### Product Interactions
 
-Content uploaded during runtime execution of Macros and Plugins are not stored on IllumiTacit servers. However, these
-may be retained by our [third party service providers](#when-we-access-or-share-your-information) that provide the
-language model services. For example, OpenAI will store content used for any language model for up to 30 days for abuse
-detection purposes.
+We store the content you provide when creating Macros and Plugins in your IllumiTacit account on our servers.
+This helps you use our products as they're designed, like running prompts with third-party language models.
+We keep this content while your account is active, and if you delete your account, we'll erase the content within
+60 days.
 
-Refer to [service provider policies](#when-we-access-or-share-your-information) for more information on how each service
-provider uses your data.
+We don't store content uploaded during runtime execution of Macros and Plugins on our servers. However, our
+[third party service providers](#when-we-access-or-share-your-information), might keep this content. For
+example, OpenAI stores content used for their language model for up to 30 days to detect abuse.
 
-### Geolocation data
+To learn more about how each service provider uses your data, please refer to their
+[policies](#when-we-access-or-share-your-information)
 
-We log the full IP address used to sign up a product account and retain that for use in mitigating future spammy
-signups. We also log all account access by full IP address for security and fraud prevention purposes, and we keep this
-login data for as long as your product account is active.
+### Geolocation Data
 
-### Website analytics
+We log the IP address you use to sign up for a product account to prevent spammy signups. We also log all
+account access by IP address for security and fraud prevention purposes, and we keep this login data as long as
+your account is active.
+
+### Website Analytics
 
 We use [Plausible Analytics](https://plausible.io/) to track overall trends in the usage of our website. Plausible
 Analytics collects only aggregated information, which does not allow us to identify any visitor to our website. For more
 information, please visit the [Plausible Analytics Data Policy](https://plausible.io/privacy).
 
-### Anti-bot assessments
+### Anti-Bot Assessments
 
 We proxy our service through [Cloudflare](https://www.cloudflare.com/) to mitigate brute force and DDoS attacks. We have
 a legitimate interest in protecting our apps and the broader Internet community from credential stuffing
@@ -85,7 +88,7 @@ content viewed, and other click-stream data. You can adjust cookie retention set
 cookies in your browser settings, although our apps won’t work and other aspects of our service may not function
 properly if you turn cookies off.
 
-#### Third party Cookies
+#### Third Party Cookies
 
 IllumiTacit uses the following third-party Cookies:
 
@@ -94,18 +97,15 @@ IllumiTacit uses the following third-party Cookies:
 | Cookie Name | Type     | Expiry           | Use                                                                                                                                                                                           |
 | Cloudflare  | Required | at most 24 hours | Bot management and session affinity for global cache. Refer to the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) for more details on the cookies and their use.      |
 
-### Voluntary correspondence
+### Voluntary Correspondence
 
-When you email IllumiTacit with a question or to ask for help, we keep that correspondence, including your email
-address, so that we have a history of past correspondence to reference if you reach out in the future.
+When you contact IllumiTacit for help or questions, we keep the correspondence, including your email address,
+to better assist you in the future. We also store information you voluntarily provide, such as survey responses or
+recordings of customer interviews (with your express consent).
 
-We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer
-interview, we may ask for your permission to record the conversation for future reference or use. We will only do so
-with your express consent.
+## When We Access or Share Your Information
 
-## When we access or share your information
-
-**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications
+**To provide products or services you’ve requested**. We may use third-party subprocessors to help run our applications
 and provide the Services to you. The following is a list of third-party subprocessors we use:
 * [AWS](https://aws.amazon.com/privacy/). Cloud services provider.
 * [Cloudflare](https://www.cloudflare.com/privacypolicy/). Cloud services provider.
@@ -120,19 +120,18 @@ and provide the Services to you. The following is a list of third-party subproce
   API and is categorized as "API Content" as described in their [Terms of
   use](https://openai.com/policies/terms-of-use).
 
-No IllumiTacit human looks at your content except for limited purposes with your express permission, for example, if an
-error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases,
-and when they happen, we look for root cause solutions as much as possible to avoid them recurring. We may also access
-your data if required in order to respond to legal process (see “When required under applicable law” below).
+No IllumiTacit human looks at your data except with your express permission for limited purposes, such as an
+error that stops an automated process from working and requires manual intervention to fix. These are rare cases,
+after which, we look for root cause solutions to avoid them recurring to the extent possible. We may also access
+your data as required for legal compliance under applicable laws and regulations (see “When required under applicable law” below).
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your
 content to help you with a support case, we will ask for your consent before proceeding.
 
-**To investigate, prevent, or take action regarding restricted uses.** Accessing a customer’s account when investigating
+**To investigate, prevent, or take action regarding restricted uses.** Accessing your account when investigating
 potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the
 people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we
-discover you are using our products for a restricted purpose, we will take action as necessary, including notifying
-appropriate authorities where warranted.
+discover you are using our products for a restricted purpose, we will take any necessary action, including notifying appropriate authorities where warranted.
 
 **When required under applicable law.**
 
@@ -155,7 +154,7 @@ IllumiTacit, LLC is a U.S. company and all data infrastructure are located in th
 Finally, if IllumiTacit, LLC is acquired by or merges with another company we’ll notify you well before any of your
 personal information is transferred or becomes subject to a different privacy policy.
 
-## Your rights with respect to your information
+## Your Rights with Respect to Your Information
 
 At IllumiTacit, we strive to apply the same data rights to all customers, regardless of their location. Some of these
 rights include:
@@ -194,7 +193,7 @@ If you have questions about exercising these rights or need assistance, please c
 If you are in the EU or UK, you can contact your data protection authority to file a complaint or learn more about local
 privacy laws.
 
-## How we secure your data
+## How We Secure Your Data
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our
 servers to your browser. Any files which you upload to us are stored and are encrypted at rest. Our application
@@ -203,14 +202,14 @@ databases are encrypted at rest.
 All data are written to multiple disks instantly, backed up daily, and stored in multiple locations. Files that our
 customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.
 
-## Location of site and data
+## Location of Site and Data
 
 Our products and other web properties are operated in the United States. If you are located in the European Union, UK,
 or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred
 to and stored in the United States**. By using our websites or Services and/or providing us with your personal
 information, you consent to this transfer.
 
-## Changes & questions
+## Changes & Questions
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a
 history of the changes to our policies [on GitHub](https://github.com/illumitacit/policies/commits/main). Whenever we make
@@ -218,8 +217,7 @@ a significant change to our policies, we will refresh the date at the top of thi
 steps to notify users.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your
-information? Please get in touch by emailing us at [support@illumitacit.com](mailto:support@illumitacit.com) and we’ll be happy to
-try to answer them!
+information? Please get in touch by emailing us at [support@illumitacit.com](mailto:support@illumitacit.com) and we’ll be happy to help!
 
 ---
 
