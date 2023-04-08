@@ -53,7 +53,7 @@ p {
 }
 
 li {
-  margin-bottom: .5em;
+  @apply mb-2;
 }
 
 .page a {
