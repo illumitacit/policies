@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  parcelwatch:
+    build:
+      context: "."
+      dockerfile: "./parcel.Dockerfile"
+    working_dir: /code
+    volumes:
+      - type: bind
+        source: "${POLICIES_CODE_ROOT_PATH:-../../..}"
+        target: /code
+      - "nodemodules:/code/node_modules"
+      - "parcelcache:/code/.parcel-cache"
+
+  web:
+    image: klakegg/hugo:alpine
+    working_dir: /code
+    ports:
+      - "1313:1313"
+    expose:
+      - "1313"
+    volumes:
+      - type: bind
+        source: "${POLICIES_CODE_ROOT_PATH:-../../..}"
+        target: /code
+    command:
+      - server
+
+volumes:
+  nodemodules:
+  parcelcache:
