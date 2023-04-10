@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Policies site for IllumiTacit",
   "repository": "git@github.com:illumitacit/policies.git",
-  "author": "Yoriyasu Yano <430092+yorinasub17@users.noreply.github.com>",
+  "author": "IllumiTacit <support@illumitacit.com>",
   "license": "BSD-3-Clause",
   "scripts": {
     "build": "parcel build"
