@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: April 6th, 2023*
+*Last updated: April 23rd, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
@@ -98,13 +98,28 @@ content viewed, and other click-stream data. You can adjust cookie retention set
 cookies in your browser settings, although our apps won’t work and other aspects of our service may not function
 properly if you turn cookies off.
 
+Note that currently all cookies on our platform (listed below) are required for it to function properly. Rejecting
+cookies in our consent banner will not reject the necessary cookies, and is only used for rejecting cookies that we may
+introduce in the future that will not be required for the site to function (e.g., for personalization or A/B testing).
+
+#### First Party Cookies
+
+IllumiTacit uses the following first-party Cookies:
+
+| Cookie Name          | Type     | Expiry  | Use                                                                                                    |
+| ---                  | ---      | ---     | ---                                                                                                    |
+| Session ID (ITE SID) | Required | 2 weeks | Used for maintaining login sessions so that you can access your content.                               |
+| CSRF Token           | Required | Session | Used for protecting your content against [CSRF attacks](https://owasp.org/www-community/attacks/csrf). |
+
 #### Third Party Cookies
 
 IllumiTacit uses the following third-party Cookies:
 
-| Cookie Name | Type     | Expiry           | Use                                                                                                                                                                                           |
-| ---         | ---      | ---              | ---                                                                                                                                                                                           |
-| Cloudflare  | Required | at most 24 hours | Bot management and session affinity for global cache. Refer to the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) for more details on the cookies and their use.      |
+| Cookie Name | Type     | Expiry           | Use                                                                                                                                                                                      |
+| ---         | ---      | ---              | ---                                                                                                                                                                                      |
+| Cloudflare  | Required | at most 24 hours | Bot management and session affinity for global cache. Refer to the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) for more details on the cookies and their use. |
+| CookieYes   | Required | 1 year           | Tracking consent information for our Cookie Policy. Refer to the [CookieYes Cookie Policy](https://www.cookieyes.com/cookie-policy) for more details on the cookies and their use.       |
+
 
 ### Voluntary Correspondence
 
@@ -123,6 +138,7 @@ and provide the Services to you. The following is a list of third-party subproce
 * [Zitadel](https://zitadel.com/docs/legal/privacy-policy). Customer identity authentication and authorization service.
 * [Paddle](https://www.paddle.com/legal/gdpr). Merchant of record.
 * [Plausible Analytics](https://plausible.io/data-policy). Analytics service.
+* [CookieYes](https://www.cookieyes.com/privacy-policy/). Cookie consent service provider.
 * [HubSpot](https://www.hubspot.com/data-privacy/gdpr). Customer sales and ticketing service.
 * [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-data-protection-agreement). Version control software.
 * [OpenAI](https://openai.com/policies/privacy-policy). Language model provider. Content shared with OpenAI is over the
