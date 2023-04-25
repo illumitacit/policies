@@ -9,6 +9,8 @@
       {{- end -}}
     </title>
 
+    <link rel="icon" href="/favicons/favicon.ico">
+
     {{ $css := resources.Get "dist/index.css" | minify }}
     {{ with $css }}
       {{ $securecss := . | resources.Fingerprint }}
