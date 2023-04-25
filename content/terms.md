@@ -2,7 +2,7 @@
 title: "Terms of Service"
 ---
 
-*Last updated: April 6th, 2023*
+*Last updated: April 25th, 2023*
 
 Thank you for using IllumiTacit!
 
@@ -21,8 +21,9 @@ not exercise or enforce any right or provision of the Terms of Service; in doing
 provision. **These terms do contain a limitation of our liability.**
 
 If you violate any of the terms, we may terminate your account. That’s a broad statement and it means you need to place
-a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://illumitacit.com/about) and
-keeping an open door to [your feedback](mailto:support@illumitacit.com).
+a lot of trust in us. We do our best to deserve that trust by being open about our
+[policies](https://policies.illumitacit.com/privacy/) and keeping an open door to [your
+feedback](mailto:support@illumitacit.com).
 
 ## Account Terms
 
