@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: April 23rd, 2023*
+*Last updated: April 26th, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
@@ -83,9 +83,16 @@ attacks and spam. When you access IllumiTacit, Cloudflare evaluates various info
 visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a
 human. We retain these data via our subprocessor indefinitely for use in spam mitigation.
 
+We also use [Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/) across our service to mitigate spam
+entries for forms. When you fill in certain forms, the CAPTCHA service evaluates various information (e.g., IP address,
+how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program
+instead of a human. These data is also retained via our subprocessor indefinitely for use in spam mitigation. The data
+collected is minimal, and no cookie information is used for this purpose.
+
 For more information, please visit the [How Cloudflare works
-page](https://developers.cloudflare.com/fundamentals/get-started/concepts/how-cloudflare-works/) and the [Cloudflare
-Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+page](https://developers.cloudflare.com/fundamentals/get-started/concepts/how-cloudflare-works/), [Cloudflare Turnstile
+documentation](https://developers.cloudflare.com/turnstile), and the [Cloudflare Privacy
+Policy](https://www.cloudflare.com/privacypolicy/).
 
 ### Cookies
 
@@ -140,6 +147,8 @@ and provide the Services to you. The following is a list of third-party subproce
 * [Plausible Analytics](https://plausible.io/data-policy). Analytics service.
 * [CookieYes](https://www.cookieyes.com/privacy-policy/). Cookie consent service provider.
 * [HubSpot](https://www.hubspot.com/data-privacy/gdpr). Customer sales and ticketing service.
+* [Airtable](https://www.airtable.com/privacy). Cloud services provider. Used for collecting and tracking customer
+  information for waitlists.
 * [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-data-protection-agreement). Version control software.
 * [OpenAI](https://openai.com/policies/privacy-policy). Language model provider. Content shared with OpenAI is over the
   API and is categorized as "API Content" as described in their [Terms of
