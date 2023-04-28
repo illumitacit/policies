@@ -17,11 +17,19 @@
       <link rel="stylesheet" href="{{ $securecss.Permalink | relURL  }}" integrity="{{ $securecss.Data.Integrity }}" crossorigin="anonymous">
     {{ end }}
 
+    {{ $js := resources.Get "dist/index.js" | minify }}
+    {{ with $js }}
+      {{ $securejs := . | resources.Fingerprint }}
+      <script src="{{ $securejs.Permalink | relURL  }}" integrity="{{ $securejs.Data.Integrity }}">
+      </script>
+    {{ end }}
+
     <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/24947f775c9f73ae563f26b7/script.js"></script>
   </head>
 
   <body class="bg-white dark:bg-slate-900">
     {{ partial "header.html" . }}
+    {{ partial "header_mobile.html" . }}
 
     <div class="mt-16 max-w-4xl mx-auto text-slate-800 dark:text-slate-200">
       {{ block "main" . }}{{ end }}
