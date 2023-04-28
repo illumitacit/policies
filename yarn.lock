@@ -23,6 +23,11 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+"@hotwired/stimulus@^3.2.1":
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@hotwired/stimulus/-/stimulus-3.2.1.tgz#e3de23623b0c52c247aba4cd5d530d257008676b"
+  integrity sha512-HGlzDcf9vv/EQrMJ5ZG6VWNs8Z/xMN+1o2OhV1gKiSG6CqZt5MCBB1gRg5ILiN3U0jEAxuDTNPRfBcnZBDmupQ==
+
 "@jridgewell/gen-mapping@^0.3.0":
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.3.3.tgz#7e02e6eb5df901aaedb08514203b096614024098"
@@ -1190,6 +1195,11 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
+hotkeys-js@>=3:
+  version "3.10.2"
+  resolved "https://registry.yarnpkg.com/hotkeys-js/-/hotkeys-js-3.10.2.tgz#cf52661904f5a13a973565cb97085fea2f5ae257"
+  integrity sha512-Z6vLmJTYzkbZZXlBkhrYB962Q/rZGc/WHQiyEGu9ZZVF7bAeFDjjDa31grWREuw9Ygb4zmlov2bTkPYqj0aFnQ==
+
 htmlnano@^2.0.0:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/htmlnano/-/htmlnano-2.0.3.tgz#50ee639ed63357d4a6c01309f52a35892e4edc2e"
@@ -1765,6 +1775,20 @@ stable@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/stable/-/stable-0.1.8.tgz#836eb3c8382fe2936feaf544631017ce7d47a3cf"
   integrity sha512-ji9qxRnOVfcuLDySj9qzhGSEFVobyt1kIOSkj1qZzYLzq7Tos/oUUWvotUPQLlrsidqsK6tBH89Bc9kL5zHA6w==
+
+stimulus-dropdown@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/stimulus-dropdown/-/stimulus-dropdown-2.1.0.tgz#22f15cd1dc247e08f04c3f95d7ab9d8102602a07"
+  integrity sha512-p4Bs56/ilB2E0lfFaNajKIHZK1PMUUDnhDl74f97bn087fxIfRB7WQekVtTTWJdRlf3EIgSsDX7K1TsaLiIcLg==
+  dependencies:
+    stimulus-use "^0.51.1"
+
+stimulus-use@^0.51.1:
+  version "0.51.3"
+  resolved "https://registry.yarnpkg.com/stimulus-use/-/stimulus-use-0.51.3.tgz#d7ac671aff8d0db253296dec89d38aa6f4b27e2a"
+  integrity sha512-V4YETxMFL4/bpmcqlwFtaOaJg9sLF+XlWsvXrsoWVA5jffsqe7uAvV6gGPPQta7Hgx01vovA0yNsWUe2eU9Jmw==
+  dependencies:
+    hotkeys-js ">=3"
 
 sucrase@^3.29.0:
   version "3.31.0"
