@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: April 26th, 2023*
+*Last updated: May 1st, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
@@ -152,7 +152,8 @@ and provide the Services to you. The following is a list of third-party subproce
 * [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-data-protection-agreement). Version control software.
 * [OpenAI](https://openai.com/policies/privacy-policy). Language model provider. Content shared with OpenAI is over the
   API and is categorized as "API Content" as described in their [Terms of
-  use](https://openai.com/policies/terms-of-use).
+  use](https://openai.com/policies/terms-of-use) and their [API Data Usage
+  policies](https://openai.com/policies/api-data-usage-policies).
 
 No IllumiTacit human looks at your data except with your express permission for limited purposes, such as an
 error that stops an automated process from working and requires manual intervention to fix. These are rare cases,
