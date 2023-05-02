@@ -6,8 +6,8 @@
   "author": "IllumiTacit <support@illumitacit.com>",
   "license": "BSD-3-Clause",
   "scripts": {
-    "build": "parcel build && hugo --gc --minify --enableGitInfo",
-    "build:preview": "parcel build && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+    "build": "parcel build && hugo --gc --minify --enableGitInfo -b $HUGO_BASE_URL",
+    "build:preview": "parcel build && hugo --gc --minify --buildFuture -b $CF_PAGES_URL"
   },
   "targets": {
     "default": {
