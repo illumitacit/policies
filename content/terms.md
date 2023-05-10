@@ -2,7 +2,7 @@
 title: "Terms of Service"
 ---
 
-*Last updated: April 25th, 2023*
+*Last updated: May 9th, 2023*
 
 Thank you for using IllumiTacit!
 
@@ -118,8 +118,8 @@ feedback](mailto:support@illumitacit.com).
    Services to anyone for any reason at any time. We have this clause because statistically speaking, out of the
    accounts on our Services, there may be at least one doing something nefarious.
 
-8. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employees,
-officers, contractors, or affiliates will result in immediate account termination.
+8. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employees, officers,
+   contractors, or affiliates will result in immediate account termination.
 
 ## Modifications to the Service and Prices
 
