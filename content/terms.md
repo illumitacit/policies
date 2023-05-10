@@ -98,12 +98,12 @@ feedback](mailto:support@illumitacit.com).
 3. Account cancellation takes effect at the end of the current billing cycle, unless you are cancelling during the grace
    period, in which case cancellation takes effect immediately. Your account will be reduced to a limited access status
    on the Service after the account cancellation is effective. In limited access, you can only access your billing
-   dashboard to upgrade your account. You will not be able to access any of your existing Macros or Plugins in the
-   account. Your content will be stored indefinitely unless you also delete your account.
+   dashboard to upgrade your account. You will not be able to access any of your existing Macros in the account. Your
+   content will be stored indefinitely unless you also delete your account.
 
-4. When requesting cancellation, you will be asked if you would like to also delete your account. All your Macros and
-   Plugins will be deleted from our active system and logs upon account deletion. Within 60 days, all Macros and Plugins
-   will be deleted from our backups. We cannot recover this information once it has been permanently deleted.
+4. When requesting cancellation, you will be asked if you would like to also delete your account. All your Macros will
+   be deleted from our active system and logs upon account deletion. Within 60 days, all Macros will be deleted from our
+   backups. We cannot recover this information once it has been permanently deleted.
 
 5. You can request to delete your account at any time after cancellation even in limited access status if you did not
    select to delete your account at the point of cancellation.
