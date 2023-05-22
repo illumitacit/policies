@@ -155,7 +155,8 @@ and provide the Services to you. The following is a list of third-party subproce
 * [OpenAI](https://openai.com/policies/privacy-policy). Language model provider. Content shared with OpenAI is over the
   API and is categorized as "API Content" as described in their [Terms of
   use](https://openai.com/policies/terms-of-use) and their [API Data Usage
-  policies](https://openai.com/policies/api-data-usage-policies).
+  policies](https://openai.com/policies/api-data-usage-policies). We explicitly **opt-out** of all data sharing for
+  training purposes as stated in their terms.
 
 No IllumiTacit human looks at your data except with your express permission for limited purposes, such as an
 error that stops an automated process from working and requires manual intervention to fix. These are rare cases,
