@@ -51,7 +51,7 @@ committed to keeping your information safe and secure.
 
 ### Product Interactions
 
-We store the content you provide when creating Macros and Plugins in your IllumiTacit account on our servers.
+We store the content you provide when creating Macros and Inputs in your IllumiTacit account on our servers.
 This helps you use our products as they're designed, like running prompts with third-party language models.
 We keep this content while your account is active, and if you delete your account, we'll erase the content within
 60 days.
