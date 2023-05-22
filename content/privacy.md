@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: May 9th, 2023*
+*Last updated: May 22nd, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
