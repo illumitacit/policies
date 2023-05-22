@@ -53,8 +53,15 @@ committed to keeping your information safe and secure.
 
 We store the content you provide when creating Macros and Inputs in your IllumiTacit account on our servers.
 This helps you use our products as they're designed, like running prompts with third-party language models.
-We keep this content while your account is active, and if you delete your account, we'll erase the content within
-60 days.
+We keep this content while the Macros and Inputs are active, and while your account is active. All related data is
+deleted within 60 days, including from backups, when the Macro and Input is deleted. If you delete your account, we'll
+erase the content within 60 days.
+
+We also store the content uploaded during model experimentation ("Experiments" in the app) in your IllumiTacit account
+on our servers. This content is used to retain the history of the model exchanges to assist you in Macro creation. We
+keep this content while the Experiments are retained in your account. All related data is deleted within 60 days,
+including from backups, when the Experiment is deleted. If you delete your account, we'll erase the content within 60
+days.
 
 We don't store content uploaded during runtime execution of Macros and Plugins on our servers. However, our
 [third party service providers](#when-we-access-or-share-your-information), might keep this content. For
