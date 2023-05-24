@@ -2,7 +2,7 @@
 title: "Terms of Service"
 ---
 
-*Last updated: May 9th, 2023*
+*Last updated: May 24th, 2023*
 
 Thank you for using IllumiTacit!
 
@@ -318,9 +318,9 @@ that accesses the Services, is bound by the terms of this agreement plus the fol
 
 ## Support
 
-Technical support is provided by [email](mailto:support@illumitacit.com) and [GitHub
-Discussions](https://github.com/orgs/illumitacit/discussions). There is no Service Level Agreement on support inquiry
-response time. Responses are provided on the reasonable effort basis without guaranteed response time.
+Technical support is provided by [email](mailto:support@illumitacit.com) and [Discord](https://discord.com) (server
+IllumiTacit) There is no Service Level Agreement on support inquiry response time. Responses are provided on the
+reasonable effort basis without guaranteed response time.
 
 ## Liability
 
