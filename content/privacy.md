@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: May 28th, 2023*
+*Last updated: Jun 5th, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
@@ -152,6 +152,7 @@ and provide the Services to you. The following is a list of third-party subproce
 * [Zitadel](https://zitadel.com/docs/legal/privacy-policy). Customer identity authentication and authorization service.
 * [Paddle](https://www.paddle.com/legal/gdpr). Merchant of record.
 * [Plausible Analytics](https://plausible.io/data-policy). Analytics service.
+* [Honeybadger](https://www.honeybadger.io/gdpr/). Error reporting service.
 * [CookieYes](https://www.cookieyes.com/privacy-policy/). Cookie consent service provider.
 * [HubSpot](https://www.hubspot.com/data-privacy/gdpr). Customer sales and ticketing service.
 * [Airtable](https://www.airtable.com/privacy). Cloud services provider. Used for collecting and tracking customer
