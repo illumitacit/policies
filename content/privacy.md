@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: Jun 5th, 2023*
+*Last updated: Jun 7th, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
@@ -63,9 +63,10 @@ keep this content while the Experiments are retained in your account. All relate
 including from backups, when the Experiment is deleted. If you delete your account, we'll erase the content within 60
 days.
 
-We don't store content uploaded during runtime execution of Macros and Plugins on our servers. However, our
-[third party service providers](#when-we-access-or-share-your-information), might keep this content. For
-example, OpenAI stores content used for their language model for up to 30 days to detect abuse.
+We do not store content uploaded during runtime execution of Macros on our site or from our plugins (e.g., Chrome
+Extension, Google Editor Add-on, Microsoft Office Add-on) on our servers. However, our [third party service
+providers](#when-we-access-or-share-your-information), might keep this content. For example, OpenAI stores content used
+for their language model for up to 30 days to detect abuse.
 
 To learn more about how each service provider uses your data, please refer to their
 [policies](#when-we-access-or-share-your-information)
