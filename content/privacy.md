@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: Jun 7th, 2023*
+*Last updated: Jun 15th, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
@@ -51,6 +51,15 @@ committed to keeping your information safe and secure.
 
 ### Product Interactions
 
+We log a timestamp of the last time you interacted with the site for security audit purposes. This timestamp is shared
+with other members of your Organization as a crude distance to the current time (e.g., "1 month ago").
+
+We also log the number of words that were generated with every Macro execution for billing purposes. We do not log the
+content that was used to execute the Macro (see [Uploaded Contents](#uploaded-contents) below for details on what
+content is stored).
+
+### Uploaded Contents
+
 We store the content you provide when creating Macros and Inputs in your IllumiTacit account on our servers.
 This helps you use our products as they're designed, like running prompts with third-party language models.
 We keep this content while the Macros and Inputs are active, and while your account is active. All related data is
@@ -64,12 +73,14 @@ including from backups, when the Experiment is deleted. If you delete your accou
 days.
 
 We do not store content uploaded during runtime execution of Macros on our site or from our plugins (e.g., Chrome
-Extension, Google Editor Add-on, Microsoft Office Add-on) on our servers. However, our [third party service
-providers](#when-we-access-or-share-your-information), might keep this content. For example, OpenAI stores content used
-for their language model for up to 30 days to detect abuse.
+Extension, Google Editor Add-on, Microsoft Office Add-on) on our servers. Content uploaded in this manner is only used
+at the time of upload to provide the intended services of running prompts with third-party language models.
+However, our [third party service providers](#when-we-access-or-share-your-information), may keep this content for a
+limited time for specific limited uses. For example, OpenAI stores content used for their language model for up to 30
+days to detect abuse.
 
-To learn more about how each service provider uses your data, please refer to their
-[policies](#when-we-access-or-share-your-information)
+To learn more about how each service provider uses your data, please refer to their policies listed in the [When we
+access or share your information](#when-we-access-or-share-your-information) section.
 
 ### Geolocation Data
 
