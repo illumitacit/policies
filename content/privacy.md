@@ -82,6 +82,21 @@ days to detect abuse.
 To learn more about how each service provider uses your data, please refer to their policies listed in the [When we
 access or share your information](#when-we-access-or-share-your-information) section.
 
+### Google API Data
+
+Content received from Google APIs are used only for Macro execution and not Macro creation or management. Refer to the
+[Uploaded Contents](#uploaded-contents) section for more information on how data received from Google APIs are used.
+
+IllumiTacit's use and transfer to any other app of information received from Google APIs will adhere to [Google API
+Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including
+[the Limited Use](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes)
+requirements.
+
+### Microsoft API Data
+
+Content received from Microsoft APIs are used only for Macro execution and not Macro creation or management. Refer to the
+[Uploaded Contents](#uploaded-contents) section for more information on how data received from Google APIs are used.
+
 ### Geolocation Data
 
 We log the IP address you use to sign up for a product account to prevent spammy signups. We also log all
