@@ -1,4 +1,5 @@
 baseURL = 'https://policies.illumitacit.com/'
 languageCode = 'en-us'
-title = 'Policies | IllumiTacit'
+title = 'Policies'
 disableKinds = ["home"]
+enableRobotsTXT = true
