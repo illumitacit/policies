@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: Jun 15th, 2023*
+*Last updated: Jun 27th, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
@@ -85,7 +85,14 @@ access or share your information](#when-we-access-or-share-your-information) sec
 ### Google API Data
 
 Content received from Google APIs are used only for Macro execution and not Macro creation or management. Refer to the
-[Uploaded Contents](#uploaded-contents) section for more information on how data received from Google APIs are used.
+[Uploaded Contents](#uploaded-contents) section for more information on how data received from Google APIs are used. The
+Google APIs are only used in the Google Workspace Add-on and Google Chrome Extension.
+
+Only data you explicitly share in the plugin are sent to IllumiTacit and our service providers:
+
+- Highlighted text in the Google Workspace Document, Sheet, or Presentation at the time the Macro is executed.
+- Text provided in the input form for the Macro.
+- Documents uploaded in the input form for the Macro.
 
 IllumiTacit's use and transfer to any other app of information received from Google APIs will adhere to [Google API
 Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including
@@ -95,7 +102,16 @@ requirements.
 ### Microsoft API Data
 
 Content received from Microsoft APIs are used only for Macro execution and not Macro creation or management. Refer to the
-[Uploaded Contents](#uploaded-contents) section for more information on how data received from Google APIs are used.
+[Uploaded Contents](#uploaded-contents) section for more information on how data received from Microsoft APIs are used.
+The Microsoft APIs are only used in the Microsoft Office Add-on.
+
+Only data you explicitly share in the app are sent to IllumiTacit and our service providers:
+
+- Highlighted text in the Microsoft Office Word document, Excel sheet, or Powerpoint presentation at the time the Macro
+  is executed.
+- Text provided in the input form for the Macro.
+- Documents uploaded in the input form for the Macro.
+
 
 ### Geolocation Data
 
