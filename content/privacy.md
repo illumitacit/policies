@@ -75,9 +75,10 @@ days.
 We do not store content uploaded during runtime execution of Macros on our site or from our plugins (e.g., Chrome
 Extension, Google Editor Add-on, Microsoft Office Add-on) on our servers. Content uploaded in this manner is only used
 at the time of upload to provide the intended services of running prompts with third-party language models.
-However, our [third party service providers](#when-we-access-or-share-your-information), may keep this content for a
-limited time for specific limited uses. For example, OpenAI stores content used for their language model for up to 30
-days to detect abuse.
+The uploaded content is combined with stored content in the Macros to construct the prompt for third-party language
+models, and sent to our [third party service providers](#when-we-access-or-share-your-information) for execution. Our
+third party service providers may keep this content for a limited time for specific limited uses. For example, OpenAI
+stores content used for their language model for up to 30 days to detect abuse.
 
 To learn more about how each service provider uses your data, please refer to their policies listed in the [When we
 access or share your information](#when-we-access-or-share-your-information) section.
