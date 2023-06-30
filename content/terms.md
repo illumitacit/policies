@@ -2,7 +2,7 @@
 title: "Terms of Service"
 ---
 
-*Last updated: Jun 23rd, 2023*
+*Last updated: Jun 30th, 2023*
 
 Thank you for using IllumiTacit!
 
@@ -45,10 +45,10 @@ feedback](mailto:support@illumitacit.com).
 
 ## Payment and Plan Changes
 
-1. For our free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in
-   advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until
-   you make payment. If your account has been frozen for 60 days, the account and its contents will be queued for
-   deletion.
+1. For our free trial, we explain the length of trial and included services when you sign up. After the trial period,
+   you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be
+   inaccessible until you make payment. If your account has been frozen for 60 days, the account and its contents will
+   be queued for deletion.
 
 2. If you are upgrading from a free trial to a paid plan, we will charge your card immediately and your billing cycle
    starts on the day of upgrade.
