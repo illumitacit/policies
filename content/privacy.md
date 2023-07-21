@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: Jun 27th, 2023*
+*Last updated: Jul 21st, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
@@ -76,9 +76,16 @@ We do not store content uploaded during runtime execution of Macros on our site 
 Extension, Google Editor Add-on, Microsoft Office Add-on) on our servers. Content uploaded in this manner is only used
 at the time of upload to provide the intended services of running prompts with third-party language models.
 The uploaded content is combined with stored content in the Macros to construct the prompt for third-party language
-models, and sent to our [third party service providers](#when-we-access-or-share-your-information) for execution. Our
-third party service providers may keep this content for a limited time for specific limited uses. For example, OpenAI
+models, and sent to our [third-party service providers](#when-we-access-or-share-your-information) for execution. Our
+third-party service providers may keep this content for a limited time for specific limited uses. For example, OpenAI
 stores content used for their language model for up to 30 days to detect abuse.
+
+We also do not store content uploaded during ephemeral chat sessions on our servers. Ephemeral chat sessions are any
+chat sessions started within our plugins (e.g., Chrome Extension, Google Editor Add-on, Microsoft Office Add-on), and/or
+chat sessions started from a Macro response. The uploaded content is only stored in memory for the duration of the
+session, and is discarded once you disconnect the connection. Like the content uploaded for Macro execution, the content
+is only used to provide the intended services of running prompts with third-party language models, and the content may
+be kept by third-party service providers for a limited time for specific limited uses.
 
 To learn more about how each service provider uses your data, please refer to their policies listed in the [When we
 access or share your information](#when-we-access-or-share-your-information) section.
