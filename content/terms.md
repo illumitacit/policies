@@ -82,7 +82,7 @@ feedback](mailto:support@illumitacit.com).
 8. Our payment process is conducted by our Merchant of Record ([Paddle](https://www.paddle.com/)). All fees are
    inclusive of all taxes, levies, or duties imposed by taxing authorities. Paddle will collect those taxes on behalf of
    the taxing authorities and remit those taxes to them. All charges will originate from Paddle and will show as
-   `PADDLE.NET* ILLUMITACIT` on your bank/card statement. See [Paddle's Terms of
+   `PADDLE.NET* ILLUMITACI` on your bank/card statement. See [Paddle's Terms of
    Service](https://www.paddle.com/legal/terms) for more details.
 
 9. All purchases are final and non-refundable, except for those listed below in the "Cancellation, Refunds, and
