@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-*Last updated: Aug 23rd, 2023*
+*Last updated: Sep 6th, 2023*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out:
 
@@ -110,11 +110,12 @@ including from backups, when the Experiment is deleted. If you delete your accou
 days.
 
 We do not store content uploaded during ephemeral chat sessions on our servers. Ephemeral chat sessions are any
-chat sessions started within our plugins (e.g., Chrome Extension, Google Editor Add-on, Microsoft Office Add-on), and/or
-chat sessions started from a Macro response. The uploaded content is only stored in memory for the duration of the
-session, and is discarded once you disconnect the connection. Like the content uploaded for Macro execution, the content
-is only used to provide the intended services of running prompts with third-party language models, and the content may
-be kept by third-party service providers for a limited time for specific limited uses.
+chat sessions started within our plugins (e.g., Chrome Extension, Google Editor Add-on, Microsoft Office Add-on),
+chat sessions started from a Macro response, and/or Experiments started without persistence. The uploaded content is
+only stored in memory for the duration of the session, and is discarded once you disconnect the connection. Like the
+content uploaded for Macro execution, the content is only used to provide the intended services of running prompts with
+third-party language models, and the content may be kept by third-party service providers for a limited time for
+specific limited uses.
 
 
 ### Google API Data
