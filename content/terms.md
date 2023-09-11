@@ -2,9 +2,10 @@
 title: "Terms of Service"
 ---
 
-*Last updated: Aug 17th, 2023*
+*Last updated: Sep 15th, 2023*
 
-Thank you for using IllumiTacit!
+Thank you for using IllumiTacit! This Terms of Service applies to both the IllumiTacit platform and its services, as
+well as any packaged Macros offered by IllumiTacit on the platform.
 
 When we say “Company”, “we”, “our”, or “us” in this document, we are referring to IllumiTacit, LLC.
 
@@ -133,6 +134,25 @@ feedback](mailto:support@illumitacit.com).
 
 8. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employees, officers,
    contractors, or affiliates will result in immediate account termination.
+
+## Packaged Macros
+
+1. We offer packaged Macros as an add-on to your Subscription plan for an additional charge (e.g., Patette). The add-on
+   is a recurring charge on top of the base plan and includes access to the packaged Macros as well as a royalty-free
+   license to use the Macros through the platform for as long as the add-on portion of the subscription remains active.
+
+2. When you purchase packaged Macros, the Macros will be installed into your account and become accessible through the
+   IllumiTacit platform. Packaged Macros behave the same as standard Macros created on the platform. Every generated
+   text from a request to generate content using packaged Macros will count towards your account's word balance in the
+   same way as a user created Macro.
+
+3. You may cancel the add-on portion of the subscription at any time, independent of the base IllumiTacit subscription.
+   When you cancel the add-on portion of the subscription, you will lose access to the Macros and the license to use
+   them at the end of the billing cycle.
+
+4. The content in the packaged Macro (e.g., the Macro template and/or generated function) is owned by IllumiTacit. You
+   may not reproduce or distribute the Macro content without our express permission. This only pertains to the content
+   stored on our servers related to Macro creation and does not apply to the content you upload during Macro execution.
 
 ## Modifications to the Service and Prices
 
